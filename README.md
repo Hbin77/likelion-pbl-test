@@ -18,3 +18,9 @@
 | 3주차 | CSS 레이아웃 & 반응형 |
 | 4주차 | JavaScript 기초 |
 | 5주차 | React 입문 |
+
+## 개발 환경
+- OS: macOS
+- 에디터: VS Code
+- 확장: Live Server, Prettier
+- 브라우저: Chrome
